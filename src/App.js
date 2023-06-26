@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import test from '../src/images/test.mp4'
 
